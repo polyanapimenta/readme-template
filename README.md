@@ -85,7 +85,7 @@ Além disto é bom ter um editor de código-fonte como [VSCode][vscode].
 
 1. Clone this repository
 ```bash 
-$ git clone https://github.com/polyanapimenta/react-search-filter
+$ git clone https://github.com/polyanapimenta/readme-template
 ```
 2. Go into the repository
 ```bash 
@@ -145,7 +145,7 @@ Contributions are what make the open source community such an amazing place to b
 [![Email][email-shield]][email-url]
 [![Site][site-shield]][site-url]
 
-Project Link – [https://github.com/your_username/repo_name][repo-url]
+Project Link – [https://github.com/polyanapimenta/readme-template][repo-url]
 
 Made with ❤️ by Polyana Pimenta 👋 [Get in touch!][linkedin-url]
 
@@ -160,38 +160,38 @@ Distributed under the MIT License. See [`LICENSE`][license-url] for more informa
 
 
 <!-- Shields.io -->
-[built-shield]: https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
-[commit-shield]: https://img.shields.io/github/last-commit/polyanapimenta/react-search-filter?style=for-the-badge
-[pulls-shield]: https://img.shields.io/github/issues-pr/polyanapimenta/react-search-filter?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/polyanapimenta/react-search-filter?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/polyanapimenta/react-search-filter?style=for-the-badge
+[built-shield]:    https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
+[commit-shield]:   https://img.shields.io/github/last-commit/polyanapimenta/readme-template?style=for-the-badge
+[pulls-shield]:    https://img.shields.io/github/issues-pr/polyanapimenta/readme-template?style=for-the-badge
+[issues-shield]:   https://img.shields.io/github/issues/polyanapimenta/readme-template?style=for-the-badge
+[license-shield]:  https://img.shields.io/github/license/polyanapimenta/readme-template?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
-[email-shield]: https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail
-[github-shield]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
-[site-shield]: https://img.shields.io/badge/🌎%20Portfolio-white?style=for-the-badge
+[email-shield]:    https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail
+[github-shield]:   https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
+[site-shield]:     https://img.shields.io/badge/🌎%20Portfolio-white?style=for-the-badge
 
 
 <!-- All links -->
-[built-url]: https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
-[commit-url]: https://github.com/polyanapimenta/react-search-filter/commits/main
-[pulls-url]: https://github.com/polyanapimenta/react-search-filter/pulls
-[issues-url]: https://github.com/polyanapimenta/react-search-filter/issues
-[license-url]: https://github.com/polyanapimenta/react-search-filter/blob/main/LICENSE
-[linkedin-url]: https://www.linkedin.com/in/polyanapimenta
-[github-url]: https://github.com/polyanapimenta
-[email-url]: mailto:polyana.pimenta@gmail.com
-[banner-url]: assets/images/banner.png
-[repo-url]: https://github.com/polyanapimenta/react-search-filter
-[local-url]: http://localhost:3000
-[demo-url]: https://github.com/polyanapimenta
-[site-url]: https://github.com/polyanapimenta
-[profile-url]: assets/images/profile-96px.png
+[built-url]:    https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
+[commit-url]:   https://github.com/polyanapimenta/readme-template/commits/main
+[pulls-url]:    https://github.com/polyanapimenta/readme-template/pulls
+[issues-url]:   https://github.com/polyanapimenta/readme-template/issues
+[license-url]:  https://github.com/polyanapimenta/readme-template/blob/main/LICENSE
+[github-url]:   https://github.com/polyanapimenta
+[repo-url]:     https://github.com/polyanapimenta/readme-template
+[demo-url]:     https://github.com/polyanapimenta
+[site-url]:     https://polyanapimenta.com
+[linkedin-url]: https://linkedin.com/in/polyanapimenta
+[local-url]:    http://localhost:3000
+[email-url]:    mailto:polyana.pimenta@gmail.com
+[profile-url]:  assets/images/profile-96px.png
+[banner-url]:   assets/images/banner.png
 
 
 <!-- All technologies links -->
-[node]: https://nodejs.org/en/
-[git]: https://git-scm.com
-[vscode]: https://code.visualstudio.com/
+[node]:      https://nodejs.org/en/
+[git]:       https://git-scm.com
+[vscode]:    https://code.visualstudio.com/
 [bootstrap]: https://getbootstrap.com
-[jquery]: https://jquery.com
-[laravel]: https://laravel.com
+[jquery]:    https://jquery.com
+[laravel]:   https://laravel.com
