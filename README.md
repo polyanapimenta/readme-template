@@ -5,10 +5,10 @@
 
 <!-- Badges -->
 [![Built With][built-shield]][built-url]
-[![Last Commit][commit-shield]][commit-url]
 [![Pull Requests][pulls-shield]][pulls-url]
 [![License][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
+[![Last Commit][commit-shield]][commit-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br>
@@ -168,7 +168,7 @@ Distributed under the MIT License. See [`LICENSE`][license-url] for more informa
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
 [email-shield]:    https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail
 [github-shield]:   https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
-[site-shield]:     https://img.shields.io/badge/🌎%20Portfolio-white?style=for-the-badge
+[site-shield]:     https://img.shields.io/badge/🌎%20Portfolio-gray?style=for-the-badge
 
 
 <!-- All links -->
