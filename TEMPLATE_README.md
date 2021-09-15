@@ -21,19 +21,20 @@
 <br>
 
 <!-- Project status -->
-<!-- ### 🚨 Atenção! -->
-<!-- #### 🚧 Projeto em fase de construção.. 🚧 -->
-####  ✔️ Projeto Concluído.
+
+<!-- ### 🚨 Heads up! -->
+<!-- #### 🚧 Project under construction.. 🚧 -->
+####  ✔️ Completed project.
 
 </div>
 
 <br>
 
 <!-- Project name -->
-# **[Nome do Projeto][demo-url]**
+# **[Project Name][demo-url]**
 
 <!-- Short description -->
-### Descrição do projeto. Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.
+### Project description. Lorem site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.
 
 <br>
 
@@ -58,9 +59,9 @@
 
 ## Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] User registration
+- [x] Order registration
+- [ ] Product registration
 
 <br>
 
@@ -79,9 +80,9 @@ Password – `admin`
 <!-- Getting started -->
 ## Getting Started
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before starting, you will need to have the following tools installed on your machine:
 [Git][git], [Node.js][node]. 
-Além disto é bom ter um editor de código-fonte como [VSCode][vscode].
+Also it's nice to have a source code editor like [VSCode][vscode].
 
 <br>
 
@@ -92,19 +93,19 @@ Além disto é bom ter um editor de código-fonte como [VSCode][vscode].
 
 1. Clone this repository
 ```bash 
-$ git clone https://github.com/polyanapimenta/readme-template
+$ git clone https://github.com/github_username/repo_name
 ```
 2. Go into the repository
 ```bash 
-$ cd react-search-filter
+$ cd project_folder
 ```
 3. Install dependencies
 ```bash 
-$ yarn install
+$ npm install
 ```
 4. Run the app
 ```bash 
-$ yarn start
+$ npm start
 ```
 
 <br>
@@ -141,9 +142,9 @@ Contributions are what make the open source community such an amazing place to b
 ## Author
 <br>
 
-![Polyana Pimenta][profile-url]
+![My Name][profile-url]
 
-### **[Polyana Pimenta][linkedin-url]**
+### **[My Name][linkedin-url]**
 
 <br>
 
@@ -152,9 +153,9 @@ Contributions are what make the open source community such an amazing place to b
 [![Email][email-shield]][email-url]
 [![Site][site-shield]][site-url]
 
-Project Link – [https://github.com/polyanapimenta/readme-template][repo-url]
+Project Link – [https://github.com/github_username/repo_name][repo-url]
 
-Made with ❤️ by Polyana Pimenta 👋 [Get in touch!][linkedin-url]
+Made with ❤️ by My Name 👋 [Get in touch!][linkedin-url]
 
 <br>
 
@@ -167,12 +168,12 @@ Distributed under the MIT License. See [`LICENSE`][license-url] for more informa
 
 
 <!-- Shields.io -->
-[twitter-shield]:  https://img.shields.io/twitter/url?url=https://github.com/polyanapimenta/readme-template
+[twitter-shield]:  https://img.shields.io/twitter/url?url=https://github.com/github_username/repo_name
 [built-shield]:    https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
-[commit-shield]:   https://img.shields.io/github/last-commit/polyanapimenta/readme-template?style=for-the-badge
-[pulls-shield]:    https://img.shields.io/github/issues-pr/polyanapimenta/readme-template?style=for-the-badge
-[issues-shield]:   https://img.shields.io/github/issues/polyanapimenta/readme-template?style=for-the-badge
-[license-shield]:  https://img.shields.io/github/license/polyanapimenta/readme-template?style=for-the-badge
+[commit-shield]:   https://img.shields.io/github/last-commit/github_username/repo_name?style=for-the-badge
+[pulls-shield]:    https://img.shields.io/github/issues-pr/github_username/repo_name?style=for-the-badge
+[issues-shield]:   https://img.shields.io/github/issues/github_username/repo_name?style=for-the-badge
+[license-shield]:  https://img.shields.io/github/license/github_username/repo_name?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
 [email-shield]:    https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail
 [github-shield]:   https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
@@ -180,20 +181,20 @@ Distributed under the MIT License. See [`LICENSE`][license-url] for more informa
 
 
 <!-- All links -->
-[twitter-url]:  https://twitter.com/intent/tweet?text=🤩%20Olha%20que%20repo%20legal%20que%20encontrei:&url=https://github.com/polyanapimenta/readme-template
+[twitter-url]:  https://twitter.com/intent/tweet?text=🤩%20Olha%20que%20repo%20legal%20que%20encontrei%20no%20GitHub:&url=https://github.com/github_username/repo_name
 [built-url]:    https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
-[commit-url]:   https://github.com/polyanapimenta/readme-template/commits/main
-[pulls-url]:    https://github.com/polyanapimenta/readme-template/pulls
-[issues-url]:   https://github.com/polyanapimenta/readme-template/issues
-[license-url]:  https://github.com/polyanapimenta/readme-template/blob/main/LICENSE
-[github-url]:   https://github.com/polyanapimenta
-[repo-url]:     https://github.com/polyanapimenta/readme-template
-[demo-url]:     https://github.com/polyanapimenta
-[site-url]:     https://polyanapimenta.com
-[linkedin-url]: https://linkedin.com/in/polyanapimenta
+[commit-url]:   https://github.com/github_username/repo_name/commits/main
+[pulls-url]:    https://github.com/github_username/repo_name/pulls
+[issues-url]:   https://github.com/github_username/repo_name/issues
+[license-url]:  https://github.com/github_username/repo_name/blob/main/LICENSE
+[github-url]:   https://github.com/github_username
+[repo-url]:     https://github.com/github_username/repo_name
+[demo-url]:     https://github.com/github_username
+[site-url]:     https://site.com
+[linkedin-url]: https://linkedin.com/in/linkedin_username
 [local-url]:    http://localhost:3000
-[email-url]:    mailto:polyana.pimenta@gmail.com
-[profile-url]:  assets/images/profile-96px.png
+[email-url]:    mailto:email@gmail.com
+[profile-url]:  assets/images/profile_96px.png
 [banner-url]:   assets/images/banner.png
 
 
