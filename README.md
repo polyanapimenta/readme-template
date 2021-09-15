@@ -1,3 +1,10 @@
+<div align="right">
+
+  <!-- Twitter Badges Button -->
+  [![Twitter][twitter-shield]][twitter-url]
+
+</div>
+
 <!-- Logo or Banner -->
 ![Logo][banner-url]
 
@@ -160,6 +167,7 @@ Distributed under the MIT License. See [`LICENSE`][license-url] for more informa
 
 
 <!-- Shields.io -->
+[twitter-shield]:  https://img.shields.io/twitter/url?url=https://github.com/polyanapimenta/readme-template
 [built-shield]:    https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
 [commit-shield]:   https://img.shields.io/github/last-commit/polyanapimenta/readme-template?style=for-the-badge
 [pulls-shield]:    https://img.shields.io/github/issues-pr/polyanapimenta/readme-template?style=for-the-badge
@@ -172,6 +180,7 @@ Distributed under the MIT License. See [`LICENSE`][license-url] for more informa
 
 
 <!-- All links -->
+[twitter-url]:  https://twitter.com/intent/tweet?text=🤩%20Olha%20que%20repo%20legal%20que%20encontrei:&url=https://github.com/polyanapimenta/readme-template
 [built-url]:    https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react
 [commit-url]:   https://github.com/polyanapimenta/readme-template/commits/main
 [pulls-url]:    https://github.com/polyanapimenta/readme-template/pulls
